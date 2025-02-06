@@ -1,6 +1,5 @@
 # Little Barbie Purchasing Problem
-An illustration of basic game theory and supply chain coordination concepts
-Dr. Yacine Rekik – Professor ESCP Business School
+
 You are the manager of the retail store “Toys and Co” and you are concerned with the inventory
 management of your star product “Little Barbie”. The demand for this product is mainly
 concentrated during the selling period before Christmas, i.e. November and December. This demand
